@@ -11,7 +11,7 @@ A collection of 3d printed length gauges for common hobby plunger tubes, to help
 
 <img src="Improved%20PT%20length%20gagues%20v4%202%20-%20Copy.png" width="500">
 
-<img src="length-gauges-for-plunger-tubes/blob/main/Improved%20PT%20length%20gagues%20v4%20-%20Copy.png" width="500">
+<img src="Improved%20PT%20length%20gagues%20v4%20-%20Copy.png" width="500">
 
 ## Description
 A collection of 3d printed length gauges for common hobby plunger tubes, to help with cutting them to size or figuring out which ones you have on hand. 
@@ -57,4 +57,4 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 <img src="Improved%20PT%20length%20gagues%20v4%202%20-%20Copy.png" width="500">
 
-<img src="length-gauges-for-plunger-tubes/blob/main/Improved%20PT%20length%20gagues%20v4%20-%20Copy.png" width="500">
+<img src="Improved%20PT%20length%20gagues%20v4%20-%20Copy.png" width="500">
